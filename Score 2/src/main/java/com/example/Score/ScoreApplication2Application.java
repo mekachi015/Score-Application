@@ -1,13 +1,13 @@
-package com.example.ScoreApp;
+package com.example.Score;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ScoreAppApplication {
+public class ScoreApplication2Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ScoreAppApplication.class, args);
+		SpringApplication.run(ScoreApplication2Application.class, args);
 	}
 
 }
